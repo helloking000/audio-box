@@ -1,0 +1,16 @@
+{
+  "name": "brother",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@picovoice/porcupine-node": "^3.0.2",
+    "mic": "^2.1.2",
+    "node-record-lpcm16": "^1.0.1"
+  }
+}
